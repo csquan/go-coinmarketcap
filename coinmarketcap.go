@@ -18,7 +18,7 @@ import (
 
 var (
 	siteURL               = "https://coinmarketcap.com"
-	baseURL               = "https://api.coinmarketcap.com/v2"
+	baseURL               = "https://pro-api.coinmarketcap.com/v1"
 	coinGraphURL          = "https://graphs2.coinmarketcap.com/currencies"
 	globalMarketGraphURL  = "https://graphs2.coinmarketcap.com/global/marketcap-total"
 	altcoinMarketGraphURL = "https://graphs2.coinmarketcap.com/global/marketcap-altcoin"
